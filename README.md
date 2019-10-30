@@ -17,3 +17,9 @@ From Data to Insights: Visualizations, Dimensionality Reduction, Prediction
 Tools for Reproducible Research: Project Organization, Package Management, Software Best
 
 Practices, Data Sharing Platforms
+
+The educational materials have been built on [Oceanhackweek](https://oceanhackweek.github.io/) and [Pangeo](https://pangeo.io/) tutorials developed by [multiple contributors](https://oceanhackweek.github.io/our-team.html). 
+
+[Oceanhackweek Tutorials](https://oceanhackweek.github.io/schedule.html)
+
+[Pangeo Ocean Examples](https://github.com/pangeo-data/pangeo-ocean-examples)
