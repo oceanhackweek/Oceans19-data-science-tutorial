@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oceanhackweek/Oceans19-data-science-tutorial/master)
+
 ## [Oceans'19](https://seattle19.oceansconference.org/program/tutorials-workshops-and-demonstrations/#1567091640951-f2487622-8baa) Data Science in Oceanography Tutorial
 
 Seattle, WA 
