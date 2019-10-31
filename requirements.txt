@@ -1,0 +1,15 @@
+anaconda
+keras
+matplotlib
+seaborn
+scikit-learn
+pandas
+xarray
+netcdf4
+graphviz
+intake
+intake-xarray
+datashader
+gcsfs
+bokeh
+cartopy
